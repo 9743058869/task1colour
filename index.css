@@ -1,0 +1,89 @@
+table{
+    background-color: blueviolet;
+    border:1px solid black;
+    color: white;
+    content: center;
+    
+
+}
+
+*{
+    width: 1300px;
+    height: 100px;
+}
+
+td{
+    border:2px solid black ;
+     width: 50px
+    
+
+
+
+}
+#a{
+    background-color: black;
+    
+}
+#b{
+    background-color:orange;
+    color: black;
+}
+#c{
+    background-color: aqua;
+    color: black;
+}
+#d{
+    background-color: aquamarine;
+    color: black;
+
+}
+#e{
+    background-color: blueviolet;
+}
+#f{
+    background-color: brown;
+}
+#g{
+    background-color: red;
+}
+#h{
+    background-color: green;
+}
+#i  {
+    background-color: yellow;
+    color: black;
+}
+#j{
+    background-color: crimson;
+}
+#k{
+    background-color: cyan;
+}
+#l{
+    background-color: coral;
+}
+#m{
+    background-color: cornflowerblue;
+}
+#n{
+    background-color: chartreuse;
+}
+#o{
+    background-color: chocolate;
+}
+#p{
+    background-color: cornflowerblue;
+}
+#q{
+    background-color: cornsilk;
+    color: black;
+}
+#r{
+    background-color: cyan;
+}
+#s{
+    background-color: darkgoldenrod;
+}
+#w{
+    background-color: darkgray;
+}
